@@ -142,6 +142,7 @@ cd AQ_Downscaling
 
 # Create and activate conda environment
 conda env create -f downscaling_env.yml || conda env update -f downscaling_env.yml
+conda init
 conda activate tf_ds
 
 # Launch Jupyter
