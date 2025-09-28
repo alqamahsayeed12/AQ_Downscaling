@@ -321,4 +321,3 @@ dependencies:
   - pip:
       - ipython==9.5.0
       - ipython-pygments-lexers==1.1.1
-prefix: /Users/asayeed/miniforge3/envs/tf_ds
