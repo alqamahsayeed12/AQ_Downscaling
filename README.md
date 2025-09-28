@@ -13,7 +13,18 @@ This repository contains a Jupyter Notebook (`main_v1_4.ipynb`) that:
 - Performs **downscaling** from ~25 km to 5 km resolution
 - Generates **visualizations** of PM2.5 fields
 
-#### Please Cite the DOI - https://doi.org/10.5281/zenodo.17057961
+---
+If you use this code or dataset in your research, please cite as:  
+
+**Alqamah Sayeed<sup>1,2</sup>, Pawan Gupta<sup>3</sup>, Githika Tondapu<sup>4</sup>**  
+
+<sup>1</sup> University of Alabama in Huntsville (UAH), USA  
+<sup>2</sup> NASA Marshall Space Flight Center (MSFC), USA  
+<sup>3</sup> NASA Goddard Space Flight Center (GSFC), USA  
+<sup>4</sup> Universities Space Research Association (USRA), MD, USA  
+
+#### DOI - https://doi.org/10.5281/zenodo.17057961
+
 
 ---
 
