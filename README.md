@@ -18,7 +18,7 @@ This repository contains a Jupyter Notebook (`main_v1_4.ipynb`) that:
 
 ### 1. Clone the Repository
 ```` bash 
-git clone [https://github.com/alqamahsayeed12/AQ_Downscaling.git]
+git clone https://github.com/alqamahsayeed12/AQ_Downscaling.git
 cd AQ_Downscaling
 ````
 
