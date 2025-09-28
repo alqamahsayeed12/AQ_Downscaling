@@ -3,6 +3,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)
 ![Keras](https://img.shields.io/badge/Keras-3.x-red.svg)
+[![DOI](https://zenodo.org/badge/1050509195.svg)](https://doi.org/10.5281/zenodo.17057961)
 
 # PM2.5 Bias Correction & Downscaling
 
@@ -11,6 +12,8 @@ This repository contains a Jupyter Notebook (`main_v1_4.ipynb`) that:
 - Applies **bias correction** using pre-trained DNN models
 - Performs **downscaling** from ~25 km to 5 km resolution
 - Generates **visualizations** of PM2.5 fields
+
+#### Please Cite the DOI - https://doi.org/10.5281/zenodo.17057961
 
 ---
 
@@ -149,6 +152,8 @@ bash quickstart.sh
 - If latitude/longitude grids are not multiples of 40, they are trimmed logically
 
 - Pre-trained models must be in /Model/
+- While this code was developed for GEOS-FP PM2.5 data, the downscaling module is fully generalizable.  
+It can be applied to downscale **any spatial PM2.5 field** at a **5:1 resolution ratio**.
 
 ### License
 
