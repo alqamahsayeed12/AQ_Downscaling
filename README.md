@@ -42,7 +42,7 @@ This repository includes an downscaling_env.yml file for reproducibility.
 
 ```` bash 
 conda env create -f downscaling_env.yml
-conda activate tf213
+conda activate tf_ds
 
 ````
 ### 3. Launch Jupyter Notebook
@@ -142,7 +142,7 @@ cd AQ_Downscaling
 
 # Create and activate conda environment
 conda env create -f downscaling_env.yml || conda env update -f downscaling_env.yml
-conda activate tf213
+conda activate tf_ds
 
 # Launch Jupyter
 echo "Environment ready. Launching Jupyter..."
