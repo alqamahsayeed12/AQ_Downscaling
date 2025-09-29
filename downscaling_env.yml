@@ -1,4 +1,4 @@
-name: tf_ds2
+name: tf_ds
 channels:
   - conda-forge
 dependencies:
