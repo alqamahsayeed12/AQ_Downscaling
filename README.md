@@ -5,7 +5,7 @@
 ![Keras](https://img.shields.io/badge/Keras-3.x-red.svg)
 [![DOI](https://zenodo.org/badge/1050509195.svg)](https://doi.org/10.5281/zenodo.17057961)
 
-# PM2.5 Bias Correction & Downscaling
+# High-Resolution Surface PM2.5 Estimation over Thailand Using a Two-Stage Deep Learning Framework
 
 This repository contains a Jupyter Notebook (`main_v1_4.ipynb`) that:
 - Downloads **GEOS-FP forecast data** (hourly meteorology + 3-hour aerosol fields)
